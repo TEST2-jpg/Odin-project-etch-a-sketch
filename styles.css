@@ -1,0 +1,22 @@
+#Prompt {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    font-size: 23px;
+}
+
+#container {
+    display:flex;
+    background-color: pink;
+    width: 960px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin:auto;
+}
+
+div {
+    background-color: black;
+    outline:1px solid black;
+    flex-grow: 1;   
+}
